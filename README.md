@@ -1,5 +1,5 @@
 # DirectDemocracy-Through-49-O-Voter
-This is repoistory to create apps that will automatically convert voters selecting 49-O NOTA option in Electronic Voting Machine(EVM) as Direct Democrats.These direct democrats profile will be linked to Indian National Voters Blockchain.Any policy decision or financial decision will implement only after majority voters Commit their vote taken in Parliment Sessions.
+This is repoistory to create apps that will automatically convert voters selecting 49-O NOTA option in Electronic Voting Machine(EVM) as Direct Democrats.These direct democrats profile will be linked to Indian National Voters Blockchain Core.Any policy decision or financial decision will implement only after majority voters Commit their vote taken in Parliment Sessions.
 
 [#Discussions](https://github.com/AnonymousBlockChainDemocracy/DirectDemocracy-49-O-Voter/discussions)
 [#DirectDemocracyVideo](https://www.youtube.com/watch?v=y5W45Va0cPE)
