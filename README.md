@@ -1,5 +1,5 @@
 # DirectDemocracy-Through-49-O-Voter
-This is repoistory to create apps that will automatically convert voters selecting 49-O NOTA option in Electronic Voting Machine(EVM) as Direct Democrats.These direct democrats profile will be linked to Indian National Voters Blockchain.Any policy decision or financial decision will implement only after majority voters Commit their vote.
+This is repoistory to create apps that will automatically convert voters selecting 49-O NOTA option in Electronic Voting Machine(EVM) as Direct Democrats.These direct democrats profile will be linked to Indian National Voters Blockchain.Any policy decision or financial decision will implement only after majority voters Commit their vote taken in Parliment Sessions.
 
 # CryptoAnarchy
 Crypto anarchism, cryptoanarchy and crypto-anarchism are three words that can mean a wide variety of different things.
