@@ -3,5 +3,5 @@ This is repoistory to create apps that will automatically convert voters selecti
 
 # CryptoAnarchy
 Crypto anarchism, cryptoanarchy and crypto-anarchism are three words that can mean a wide variety of different things.
-Crypto-anarchism is a branch of anarchist philosophy that focuses on the use of technology to protect privacy as a means to assert autonomy from government and non-state actors interference with applications in communications, currency, commerce, and information security.A crypto-anarchist is a person who consciously uses cryptograp… See more — with #Artivism and Anonymous.
+Crypto-anarchism is a branch of anarchist philosophy that focuses on the use of technology to protect privacy as a means to assert autonomy from government and non-state actors interference with applications in communications, currency, commerce, and information security.A crypto-anarchist is a person who consciously uses cryptographic methods for bringing about a more anarchist (meaning decentralized and decoupled form of political power) society. A crypto-anarchist may have one or more interests in cryptography, communications, computers, software, social causes, online rights, and the ability of technology to solve some of the problems humans face. #Artivism and Anonymous.
 
