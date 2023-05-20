@@ -10,7 +10,7 @@ We need introduce direct voting mechanism involve people to affect politics of t
 
 This direct democracy should be experimented through 49-O voters.49-O Voters should be given power take decision in financial and policy through use of BlockChain, Crypto Non Fungible Tokens (NFT's),  web 3.0 and Generative AI technology combination.They should also be done through apps, SMS, AI voice calls, missed calls and government websites also voting machines, postal voting need to be used.
 
-With present state of 49-O in hypothetical scenario re-election will go on infinity as the rule is None of the Above (NOTA) candidates, instead of selecting someone to represent why not people should choose what they want in terms of policy and finance of country 
+In its present state 49-O for hypothetical scenario re-election will go on infinity as the rule is None of the Above (NOTA) candidates, instead of selecting someone to represent with blockchain techonology people should able to choose what they want in terms of policy and finance of country 
 
 Strategy should be to bring  Direct Democracy to mainstream politics and in Representational democracy for people to vote in general election to be their representative only for constitutional amendments this change should be hybrid democracy for India's future.
 
