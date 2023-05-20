@@ -1,5 +1,5 @@
 # DirectDemocracy-Through-49-O-Voter
-This is repoistory to create apps that will automatically convert voters selecting 49-O NOTA option in Electronic Voting Machine(EVM) as Direct Democrats.These direct democrats profile will be linked to Indian National Voters Blockchain Core.Any policy decision or financial decision will implement only after majority voters Commit their vote taken in Parliment Sessions.
+This is repoistory to create apps that will automatically convert voters selecting 49-O NOTA option in Electronic Voting Machine(EVM) as Direct Democrats.These direct democrats profile will be linked to Indian National Voters Blockchain Core.Any financial decision or policy decision will implement only after voters Commit their vote taken in Parliment Sessions.
 
 ### The 49-O Voters
 Till now old political system (Representational Democracy) the way things are going did not help reduce corruption or bring good governance even if honest politicians comes into power.We need to review the strategy and fight for making Direct Democracy in India reality. From my point of view to  reduce corruption we need to reduce power concentration in hands of few people. 
