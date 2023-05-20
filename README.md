@@ -1,9 +1,21 @@
 # DirectDemocracy-Through-49-O-Voter
 This is repoistory to create apps that will automatically convert voters selecting 49-O NOTA option in Electronic Voting Machine(EVM) as Direct Democrats.These direct democrats profile will be linked to Indian National Voters Blockchain Core.Any policy decision or financial decision will implement only after majority voters Commit their vote taken in Parliment Sessions.
 
+### The 49-O Voters
+Till now old political system (Representational Democracy) the way things are going did not help reduce corruption or bring good governance even if honest politicians comes into power.We need to review the strategy and fight for making Direct Democracy in India reality. From my point of view to  reduce corruption we need to reduce power concentration in hands of few people. 
+
+So far we have seen government tenders and contracts going only to shell companies formed by close associates of Political parties in power. The main reason why most people see public office as business where they can make money.This leads to favoritism, nepotism, brain drain, crony capitalism and leaving out talented people who can do job better.These talented people are going to foreign countries to contribute their talent for better opportunities.
+
+We need introduce direct voting mechanism involve people to affect politics of the country.Example awarding the contracts for issues like laying ditches, roads also anything that involve MLA, MP, Ministers and long term finance of the country, introduction of voting directly by people should be made necessary.
+
+This direct democracy should be experimented through 49-O voters.49-O Voters should be given power take decision in financial and policy through use of BlockChain Technology, Crypto Non Fungible Tokens (NFT's) and web 3.0 and Generative AI.They should also be done through apps , SMS , AI voice calls, missed calls and government websites also voting machines , postal voting need to be used.
+
+In hypothetical scenario with current state of 49-O re-election will go on infinity , instead of selecting someone to represent why not people should choose what they want in terms of policy and finance of country 
+
+Strategy should be to bring  Direct Democracy to mainstream politics and in Representational democracy for people to vote in general election to be their representative only for constitutional amendments this change should be hybrid democracy for India's future.
+
 [#Discussions](https://github.com/AnonymousBlockChainDemocracy/DirectDemocracy-49-O-Voter/discussions)
 [#DirectDemocracyVideo](https://www.youtube.com/watch?v=y5W45Va0cPE)
-
 
 # CryptoAnarchy
 Crypto anarchism, cryptoanarchy and crypto-anarchism are three words that can mean a wide variety of different things.
