@@ -8,7 +8,7 @@ So far we have seen government tenders and contracts going only to shell compani
 
 We need introduce direct voting mechanism involve people to affect politics of the country.Example awarding the contracts for issues like laying ditches, roads also anything that involve MLA, MP, Ministers and long term finance of the country, introduction of voting directly by people should be made necessary.
 
-This direct democracy should be experimented through 49-O voters.49-O Voters should be given power take decision in financial and policy through use of BlockChain , Crypto Non Fungible Tokens (NFT's), web 3.0 and Generative AI technologies combination.They should also be done through apps, SMS, AI voice calls, missed calls and government websites also voting machines, postal voting need to be used.
+This direct democracy should be experimented through 49-O voters.49-O Voters should be given power take decision in financial and policy through use of BlockChain, Crypto Non Fungible Tokens (NFT's),  web 3.0 and Generative AI technology combination.They should also be done through apps, SMS, AI voice calls, missed calls and government websites also voting machines, postal voting need to be used.
 
 In hypothetical scenario with current state of 49-O re-election will go on infinity , instead of selecting someone to represent why not people should choose what they want in terms of policy and finance of country 
 
